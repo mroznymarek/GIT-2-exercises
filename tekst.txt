@@ -5,5 +5,5 @@
 5.tekst 05
 6.tekst 06
 7.tekst 07
-8.tekst 08
+
 
