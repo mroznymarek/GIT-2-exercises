@@ -1,6 +1,6 @@
 
 2.tekst 02
-3.tekst 03
+
 4.tekst 04
 5.tekst 05
 6.tekst 06
